@@ -2,13 +2,13 @@
 
 ## About the project
 
-This project is when you click a button maker moves through map and shows my everyday route from home to work. This code originated from an assignment in Week #9 of MIT's MERN Coding Bootcamp. The challenge was to animate and add features to a map. I have used
+This project is when you click a button maker moves through map and shows my everyday route from home to work. This code originated from an assignment in Week #9 of MIT's MERN Coding Bootcamp. The challenge was to animate and add features to a map. I have used mapbox. 
 
 ## How to run:
 
-You have fork this repository into your computer and open the file on your code editor.
-Create account in the mapbox : https://www.mapbox.com/ . Once you created your own account you will get your owen token key.
-Put your token key instead of my token key in the Javascript file.
+You can fork this repository into your computer and open the file on your code editor.
+Create account in the mapbox : https://www.mapbox.com/ . Once you created your own account you will get your own token key.
+Put your token key instead of my token key in the Javascript file. 
 
 ## Roadmap to future improvements:
 
